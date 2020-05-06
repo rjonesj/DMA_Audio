@@ -1,0 +1,2 @@
+main.c:25:1:delay_cycles	24	static,ignoring_inline_asm
+main.c:31:5:main	16	static
