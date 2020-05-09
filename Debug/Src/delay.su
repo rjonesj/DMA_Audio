@@ -1,5 +1,0 @@
-core_cm4.h:1816:22:__NVIC_SetPriority	16	static
-delay.c:13:6:SysTick_Handler	4	static
-delay.c:20:6:Delay_Init	16	static
-delay.c:37:6:Delay_ms	16	static
-delay.c:54:6:DelaySleep_ms	16	static,ignoring_inline_asm
